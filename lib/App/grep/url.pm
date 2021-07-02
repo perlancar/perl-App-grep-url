@@ -25,9 +25,10 @@ This is a grep-like utility that greps for URLs of certain criteria.
 
 _
     remove_args => [
-        'ignore_case',
         'regexps',
         'pattern',
+        'dash_prefix_inverts',
+        'all',
     ],
     add_args    => {
         min_urls => {
