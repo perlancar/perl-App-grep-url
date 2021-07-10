@@ -1,3 +1,9 @@
+0.002   2021-07-10  Released-By: PERLANCAR; Urgency: medium
+
+	- Remove arguments 'dash_prefix_inverts', 'all' from AppBase::Grep as
+          this is irrelevant to us.
+
+
 0.001   2021-07-01  Released-By: PERLANCAR
 
         - First release.
