@@ -136,6 +136,10 @@ _
                 'x.doc.show_result' => 0,
             },
         ];
+
+        $meta->{links} = [
+            {url=>'prog:grep-email'},
+        ];
     },
     output_code => sub {
         my %args = @_;
