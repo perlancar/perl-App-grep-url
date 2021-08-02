@@ -2,3 +2,4 @@ App-grep-url-*
 .build
 *~
 nytprof*
+.DS_Store
